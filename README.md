@@ -1,5 +1,3 @@
-![GitHub Logo](/images/logo.png)
-
 ### Hi there 👋
 
 ## About Me

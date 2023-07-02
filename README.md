@@ -17,4 +17,4 @@ Seeking opportunities to contribute to innovative projects and drive meaningful 
 ## Contact Me 
 
 - Email: ali_alnaimi91@hotmail.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/alialnaimi)
+- LinkedIn: [Ali Alnaimi](https://www.linkedin.com/in/alialnaimi)

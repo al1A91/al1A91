@@ -9,10 +9,10 @@ Seeking opportunities to contribute to innovative projects and drive meaningful 
 
 ## Projects
 
-- watch_next
-- finance_calculator
-- mine_sweeper
-- isurance_cost_age
+- [watch_next](https://github.com/al1A91/watch_next)
+- [finance_calculator](https://github.com/al1A91/finance_calculator)
+- [mine_sweeper](https://github.com/al1A91/mine_sweeper)
+- [isurance_cost_age](https://github.com/al1A91/insurance_cost)
 
 ## Contact Me 
 

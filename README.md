@@ -4,7 +4,7 @@
 
 Passionate and detail-oriented code enthusiast with a strong background in product design. 
 I have more recently become drawn to the tech industry, where I can leverage my problem-solving skills and creative mindset for efficient approaches. 
-My expertise lies in Python, utilizing essential tools and frameworks. 
+My expertise lies in Python, utilizing essential tools and frameworks, SQL, Power BI & Tablue. 
 Seeking opportunities to contribute to innovative projects and drive meaningful impact in the field of data science.
 
 ## Projects

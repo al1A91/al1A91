@@ -9,6 +9,7 @@ Seeking opportunities to contribute to innovative projects and drive meaningful 
 
 ## Projects
 
+- [SQL_Data_Cleaning](https://github.com/al1A91/SQL-Employee-Layoffs-Data-Cleaning)
 - [watch_next](https://github.com/al1A91/watch_next)
 - [finance_calculator](https://github.com/al1A91/finance_calculator)
 - [mine_sweeper](https://github.com/al1A91/mine_sweeper)
